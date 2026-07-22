@@ -1,4 +1,4 @@
-# Game-Engine-Theory (GET)
+# Super Balance (Супер Баланс, Èquilibre Superbe)
 
 Инструмент, концептуальный метод программы игрового движка.
 
