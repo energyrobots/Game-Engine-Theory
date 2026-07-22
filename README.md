@@ -1,4 +1,4 @@
-# Super Balance (Супер Баланс, Èquilibre Superbe)
+# Super Balance (Супер Равновесие, Èquilibre Superbe)
 
 Инструмент, концептуальный метод программы игрового движка.
 
